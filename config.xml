@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+<entry key="BLUESTONE">https://app.test.bluestonepim.com/ </entry>
+
+ <entry key="Username">Somnath.g@hm.com</entry>
+ 
+ <entry key="Password">QwertyuioP@143</entry> 
+ 
+<!-- <entry key="quuery">corp</entry> -->
+
+
+<!--<entry key="Password">Welcome@123</entry> -->
+<!--  <entry key="PIMTEST1URL">https://app.test.bluestonepim.com/ </entry> 
+<entry key="Username">Somnath.g@hm.com </entry>
+<entry key="Password"> QwertyuioP@143</entry>--> 
+
+</properties>
