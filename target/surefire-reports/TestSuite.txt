@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 39.759 s <<< FAILURE! - in TestSuite
+startSuite(Driver.DriverInit)  Time elapsed: 31.467 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The method corpbrd(String) in the type PortalPage is not applicable for the arguments ()
+
+	at Driver.DriverInit.PIMDEV_2358(DriverInit.java:1539)
+	at Driver.DriverInit.startSuite(DriverInit.java:187)
+
+tearDown(Driver.DriverInit)  Time elapsed: 36.816 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Driver.DriverInit.tearDown(DriverInit.java:296)
+

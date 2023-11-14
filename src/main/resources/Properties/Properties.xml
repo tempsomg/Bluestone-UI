@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>All the Key value pairs are here </comment>
+
+<entry key="Username">hmsuperuser</entry>
+<entry key="Password">hmsuperuser</entry>
+<entry key="URL">http://sit-pss.hm.com</entry>
+
+<entry key="hmUsername">hmuser</entry>
+<entry key="hmPassword">hmpw</entry>
+<entry key="retouchUsername">retoucher1</entry>
+<entry key="retouchPassword">retoucher1</entry>
+
+<entry key="retouchUsername2">retoucher2</entry>
+<entry key="retouchPassword2">retoucher2</entry>
+
+<entry key="sup-retouchUsername">superretoucher-1</entry>
+<entry key="sup-retouchPassword">superretoucher-1</entry>
+
+
+<entry key="AtestURL">http://atest-pss.hm.com/libs/granite/core/content/login.html</entry>
+<entry key="sup-retouchUsername_Atest">superretoucher-1</entry>
+<entry key="sup-retouchPassword_Atest">superretoucher-2</entry>
+
+<entry key="StagingURL">http://stagin-pss.hm.com</entry>
+<entry key="sup-retouchUsername_stage">superretoucher-1</entry>
+<entry key="sup-retouchPassword_stage">superretoucher-3</entry>
+</properties>
+
+
